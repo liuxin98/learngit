@@ -8,3 +8,4 @@ Git tracks change of files
 =======
 "第一次尝试使用分支，Creating a new branch is quick and simple"
 >>>>>>> feature1
+"hahahhah"
